@@ -1,4 +1,5 @@
 # Sh_Profile Module
+[![Build Status](https://travis-ci.org/Adaptavist/puppet-sh_profile.svg?branch=master)](https://travis-ci.org/Adaptavist/puppet-sh_profile)
 
 ## Overview
 
