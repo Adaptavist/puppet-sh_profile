@@ -1,5 +1,5 @@
 name 'adaptavist-sh_profile'
-version '0.1.6'
+version '1.0.0'
 source 'https://github.com/Adaptavist/puppet-sh_profile.git'
 author 'adaptavist'
 summary 'sh_profile puppet module' 
